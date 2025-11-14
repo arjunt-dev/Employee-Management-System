@@ -1,6 +1,6 @@
-# HRMS – Human Resource Management System
+# Employee Management System
 
-A modern Django-based HRMS (Human Resource Management System) designed to automate employee management, attendance tracking, leave workflows, payroll processing, and HR operations.
+A modern Django-based Employee Management System designed to automate employee management, attendance tracking, leave workflows, payroll processing, and HR operations.
 Built using Django REST Framework, JWT authentication, background tasks, and DOCX templating.
 
 ---
@@ -31,7 +31,7 @@ Built using Django REST Framework, JWT authentication, background tasks, and DOC
 
 ### Department Managment
 
-- Crreate & Manage Departments
+- Create & Manage Departments
 - Automatic Department Creation on Migration (via Signals)
 
 ### Employee Management

@@ -90,16 +90,6 @@ DATABASES = {
     }
 }
 
-# DATABASES = {
-#         'default': {
-#             'ENGINE': 'django.db.backends.postgresql_psycopg2',
-#             'NAME': env('DATABASE', default='hrms_db'),
-#             'USER': env('USER', default='user'),
-#             'PASSWORD': env('PASSWORD', default='password'),
-#             'HOST': env('HOST', default='localhost'),
-#             'PORT': env('PORT', default='5432'),
-#         }
-#     }
 # Password validation
 # https://docs.djangoproject.com/en/5.2/ref/settings/#auth-password-validators
 
